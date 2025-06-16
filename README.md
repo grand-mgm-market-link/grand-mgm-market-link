@@ -51,4 +51,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update: Corrected broken integration guide links
+
+
+Update:  16.06.2025 05:24
