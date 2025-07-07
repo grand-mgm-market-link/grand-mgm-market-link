@@ -65,4 +65,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update:  Friday 04 July 2025
+
+
+Update: Font URLs
