@@ -67,4 +67,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update: Font URLs
+
+
+Update:  14.07.2025 Private links
