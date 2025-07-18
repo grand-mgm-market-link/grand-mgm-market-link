@@ -69,4 +69,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update:  14.07.2025 Private links
+
+
+Update: Fixed broken anchor links in wiki pages
