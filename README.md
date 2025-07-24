@@ -73,4 +73,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update:  07/21/2025 21-52-55
+
+
+Update: Widget links
