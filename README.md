@@ -79,4 +79,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update:  08/13/2025 Link is now responsive and operational
+
+
+Update:  Tuesday 19 August 2025 TOR link corrected
