@@ -89,4 +89,6 @@ This guide is provided solely for educational purposes. The information provided
 
 
 
-Update:  18.09.2025 url is operational and accessible
+
+
+Update:  Wednesday 01 October 2025
